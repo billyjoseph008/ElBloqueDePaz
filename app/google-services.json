@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190570148244",
+    "firebase_url": "https://el-bloque-de-paz.firebaseio.com",
+    "project_id": "el-bloque-de-paz",
+    "storage_bucket": "el-bloque-de-paz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190570148244:android:eaf02e9d5d6bbe2b8c9f81",
+        "android_client_info": {
+          "package_name": "com.brainstormideas.elbloquedepaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190570148244-b0dd6u026d99t5s1tpff7vs79vc3qhnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brainstormideas.elbloquedepaz",
+            "certificate_hash": "4030499a486f8156206660756f237ded8361a784"
+          }
+        },
+        {
+          "client_id": "190570148244-0fes3himl7e1l6tqgmh1qatcvcbe9ros.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_cFPTkQcjXfgmTHVnonBFYGuMSSHPdqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190570148244-0fes3himl7e1l6tqgmh1qatcvcbe9ros.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
